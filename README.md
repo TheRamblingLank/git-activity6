@@ -1,0 +1,1 @@
+# Welcome to Git Activity 6!
